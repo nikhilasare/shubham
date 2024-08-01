@@ -8,6 +8,11 @@ public class CrudOperation123Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CrudOperation123Application.class, args);
+		SpringApplication.run(CrudOperation123Application.class, args);
+		SpringApplication.run(CrudOperation123Application.class, args);
+		SpringApplication.run(CrudOperation123Application.class, args);
+		SpringApplication.run(CrudOperation123Application.class, args);
+		SpringApplication.run(CrudOperation123Application.class, args);
 	}
 
 }
