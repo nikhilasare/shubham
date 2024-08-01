@@ -4,7 +4,7 @@ package com.example.demo.controller;
 public class DemoController {
 
 	
-	yessssaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	yess
 	yessssMMMMMMMMMMMMMMM
 	yesssssssfffffffffffffffffffff
 	yessss
